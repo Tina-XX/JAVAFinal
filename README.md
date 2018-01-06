@@ -1,6 +1,6 @@
 # 葫芦娃大作业
 ## 一、运行界面
-### 1、进入主界面后按下空格键将自动开打，按下L键将打开Finder，选择后缀名为.txt的文件后加载复盘文件并自动播放
+### 1、进入主界面后按下空格键将自动开打，打斗过程中自动记录本次战斗为record.txt；按下L键将打开Finder，选择后缀名为.txt的文件后加载复盘文件并自动播放
 #### 准备开始
 ![Alt text](https://github.com/Tina-XX/JAVAFinal/blob/master/screenshot/start.png)
 #### 胜利！
